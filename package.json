@@ -1,0 +1,24 @@
+{
+  "name": "instagram_contest_extension",
+  "version": "1.0.0",
+  "description": "This extension will expand all comments on an instagram post, remove duplicate comments, then randomly select one.",
+  "main": "background.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kevbost/instagram_contest_extension"
+  },
+  "keywords": [
+    "chrome",
+    "extension",
+    "instagram"
+  ],
+  "author": "Kevin Bost <kevbost@gmail.com> (https://github.com/kevbost)",
+  "homepage": "https://github.com/kevbost/instagram_contest_extension",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^5.13.0"
+  }
+}
